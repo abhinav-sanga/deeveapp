@@ -9,6 +9,7 @@ const withAuthentication = (Component) => {
 
 			this.state = {
 				authUser: null,
+				role:
 			};
 		}
 
